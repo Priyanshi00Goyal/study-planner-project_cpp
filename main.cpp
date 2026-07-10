@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-int addTask(){
-}
+int addTask(){}
 int viewTasks(){}
 int completeTask(){}
 int deleteTask(){}
