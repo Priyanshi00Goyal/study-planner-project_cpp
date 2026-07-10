@@ -5,7 +5,7 @@ int viewTasks(){}
 int completeTask(){}
 int deleteTask(){} 
 int main() 
-{
+{ 
     int choice = 0;
 
     while (choice != 5)
