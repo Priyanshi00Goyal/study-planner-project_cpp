@@ -4,7 +4,7 @@ int addTask(){}
 int viewTasks(){}
 int completeTask(){}
 int deleteTask(){}
-int main()
+int main() 
 {
     int choice = 0;
 
