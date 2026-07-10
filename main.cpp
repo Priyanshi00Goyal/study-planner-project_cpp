@@ -3,7 +3,7 @@ using namespace std;
 int addTask(){}
 int viewTasks(){} 
 int completeTask(){}
-int deleteTask(){}
+int deleteTask(){} 
 int main() 
 {
     int choice = 0;
