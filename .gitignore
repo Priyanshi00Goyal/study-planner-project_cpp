@@ -1,1 +1,35 @@
+# Executable files
+*.exe
+*.out
+*.app
+*.o
+*.obj
 
+# Build folders
+bin/
+build/
+output/
+
+# Debug files
+*.pdb
+*.ilk
+
+# Visual Studio Code
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# CMake files (for future projects)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Task data file (optional)
+tasks.txt
